@@ -10,7 +10,7 @@ public class Sample {
 	}
 	
 	public static void display() {
-		System.out.println("Display method");
+		System.out.println("Display method ");
 	}
 
 }
